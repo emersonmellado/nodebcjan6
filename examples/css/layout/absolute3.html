@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Learning CSS</title>
+    <style>
+      body {
+        position: relative;
+        border: 2px solid orange;
+        height: 400px;
+        padding: 0;
+        margin: 0;
+        font-size: 40px;
+      }
+      
+      div.absolute {
+        position: absolute;
+        border: 1px solid black;
+        padding: 80px;
+      }
+
+      div.first {
+        background-color: red;
+        top: 20px;
+        left: 20px;
+        z-index: 2;
+      }
+
+      div.second {
+        background-color: green;
+        top: 60px;
+        left: 60px;
+        z-index: 1;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="absolute first">First Div.</div>
+    <div class="absolute second">Second Div</div>
+  </body>
+</html>

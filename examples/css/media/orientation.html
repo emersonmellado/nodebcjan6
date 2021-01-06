@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Learning CSS</title>
+    <style>
+      body {
+        background-color: white;
+      }
+
+      @media only screen {
+        /* iPhone X in landscape */ 
+        @media (min-device-width : 375px) and (max-device-width : 812px)  and (-webkit-device-pixel-ratio : 3) and (orientation : landscape) {
+          body {
+            background-color: yellow;
+          }  
+        }
+
+        /* iPhone X in portrait */ 
+        @media (min-device-width : 375px) and (max-device-width : 812px)  and (-webkit-device-pixel-ratio : 3) and (orientation : portrait) {
+          body {
+            background-color: blue;
+          }  
+        }
+      }
+      
+    </style>
+  </head>
+  <body>
+    <h1>News Title</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet nibh sit amet lectus posuere iaculis et volutpat ligula. Maecenas massa lectus, faucibus non lobortis sed, consequat id diam. Quisque a sodales mi. Aliquam vel dui sit amet ante facilisis ultrices sit amet vitae est. In eget erat aliquam, tincidunt nibh consectetur, finibus augue. In non erat eget lectus ultrices vulputate. Suspendisse ac sollicitudin mauris, ut mollis ligula. Pellentesque eu placerat odio, ac consequat enim.</p>
+  </body>
+</html>

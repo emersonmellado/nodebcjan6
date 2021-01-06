@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Learning CSS</title>
+    <style>
+      body {
+        background-color: white;
+      }
+
+      @media only screen {
+        @media (max-width: 768px) {
+          body {
+            background-color: yellow;
+          }
+        }
+
+        @media (min-width: 768px) and (max-width: 992px) {
+          body {
+            background-color: pink;
+          }
+        }
+      }
+      
+    </style>
+  </head>
+  <body>
+    <h1>News Title</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet nibh sit amet lectus posuere iaculis et volutpat ligula. Maecenas massa lectus, faucibus non lobortis sed, consequat id diam. Quisque a sodales mi. Aliquam vel dui sit amet ante facilisis ultrices sit amet vitae est. In eget erat aliquam, tincidunt nibh consectetur, finibus augue. In non erat eget lectus ultrices vulputate. Suspendisse ac sollicitudin mauris, ut mollis ligula. Pellentesque eu placerat odio, ac consequat enim.</p>
+  </body>
+</html>

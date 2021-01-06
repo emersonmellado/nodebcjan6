@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Learning CSS</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+
+      .container {
+        background-color: gray;
+      }
+      
+      .container div {
+        float: left;
+        width: 50%;
+        font-size: 20px;
+        font-weight: bold;
+        color: white;
+        text-align: center;
+        padding: 20px 0;
+      }
+
+      .container div.first {
+        background-color: green;
+      }
+      
+      .container div.second {
+        background-color: blue;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="first">1</div>
+      <div class="second">2</div>
+    </div>
+  </body>
+</html>
