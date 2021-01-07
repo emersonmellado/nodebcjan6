@@ -2,6 +2,7 @@
 
 ## Resources
 * [Slack](http://nodebcjan6.slack.com)
+* Zoom meeting *(Get the link on slack in the #general channel)*
 
 ## Content
 The course content will be distributed on a weekly basis, feel free to read it all and even **pull request** (more on that on the git lesson) suggestions.
