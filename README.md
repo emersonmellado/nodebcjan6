@@ -12,7 +12,7 @@ The course content will be distributed on a weekly basis, feel free to read it a
 - Introduction
 - Crawl, Walk and Run goals stablished
 * [What's Internet and how does it work?](internet.md)
-* [Let's create our first site](first-site.md)
+* [Let's create our first site](first-site.md) - [video](https://drive.google.com/file/d/1jb7MOdqZm2zEBuWCuBKjoohp-bzU-hl1/view?usp=sharing)
 * [HTML](html.md)
 
 ### Week 2
