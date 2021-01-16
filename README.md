@@ -1,48 +1,63 @@
 # Node.js BC (Pandemically Remote)
 
 ## Resources
-* [Slack](http://nodebcjan6.slack.com)
-* Zoom meeting *(Get the link on slack in the #general channel)*
+
+- [Slack](http://nodebcjan6.slack.com)
+- Zoom meeting _(Get the link on slack in the #general channel)_
 
 ## Content
+
 The course content will be distributed on a weekly basis, feel free to read it all and even **pull request** (more on that on the git lesson) suggestions.
 
 ## Crawl
+
 ### Week 1
+
 - Introduction
 - Crawl, Walk and Run goals stablished
+
 * [What's Internet and how does it work?](internet.md)
 * [Let's create our first site](first-site.md) - [video](https://drive.google.com/file/d/1jb7MOdqZm2zEBuWCuBKjoohp-bzU-hl1/view?usp=sharing)
-* [HTML](html.md) - [intro video](https://drive.google.com/file/d/1oACrXII2rQ375gYLdu21mMbwuHzrjhLB/view?usp=sharing) - [exercises video](https://drive.google.com/file/d/1U1KGrt6pg2zxQHHBUltJ-gMBu5ORrXPy/view?usp=sharing)
-
+* [HTML](html.md) - [intro video](https://drive.google.com/file/d/1oACrXII2rQ375gYLdu21mMbwuHzrjhLB/view?usp=sharing) - [exercises video](https://drive.google.com/file/d/1U1KGrt6pg2zxQHHBUltJ-gMBu5ORrXPy/view?usp=sharing) - [exercises video 2 + CSS tricks](https://drive.google.com/file/d/1sp-hObvLu0oUHpeZD0abqc8KUR0p-BmY/view?usp=sharing)
 
 ### Week 2
-* Git & Github
-* CSS
+
+- [CSS](css.md)
+- [Git & Github](git.md)
 
 ### Week 3
-* Wrap up HTML and CSS exercises and basic versioning
-* JavaScript
+
+- Wrap up HTML and CSS exercises and basic versioning
+- JavaScript
 
 ### Week 4 & 5
-* JavaScript
+
+- JavaScript
 
 ## Walk
+
 ### Week 6
-* Browser API
+
+- Browser API
 
 ### Week 7
-* Node.js
+
+- Node.js
 
 ### Week 8
-* Building a Node.js site with Express
+
+- Building a Node.js site with Express
 
 ### Week 9
-* MongoDB & Mongoose
+
+- MongoDB & Mongoose
 
 ## Run
+
 ### Week 10
-* Deploy
+
+- Deploy
 
 ### Week 11
-* Final project
+
+- Final project
