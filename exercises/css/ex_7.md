@@ -2,7 +2,7 @@
 
 * Create a folder with the name ex_7
 * Create a index.html file inside the ex_7 folder
-* Download the following [icon](../resources/css/easter-egg.jpg) and copy it to the ex_7 folder
+* Download the following [icon](../../resources/css/easter-egg.jpg) and copy it to the ex_7 folder
 
 ```
 /ex_7
