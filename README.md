@@ -22,7 +22,7 @@ The course content will be distributed on a weekly basis, feel free to read it a
 
 ### Week 2
 
-- [Git & Github](git.md) - [video](https://drive.google.com/file/d/1uSP3sYvVXm-0c8PC7JhmcgrUf8ensTfL/view?usp=sharing)
+- [Git & Github](git.md) - [Git video](https://drive.google.com/file/d/1uSP3sYvVXm-0c8PC7JhmcgrUf8ensTfL/view?usp=sharing) -  - [GitHub video](https://drive.google.com/file/d/11KCINeC-MSbSdHsRUjCw7R25Nvcrj_xN/view?usp=sharing)
 - [CSS](css.md)
 
 ### Week 3
