@@ -1,5 +1,7 @@
 # Node.js BC (Pandemically Remote)
 
+This is just a simple change that can be visible
+
 ## Resources
 
 - [Slack](http://nodebcjan6.slack.com)
