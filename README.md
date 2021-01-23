@@ -1,5 +1,5 @@
 # Node.js BC (Pandemically Remote)
-
+Change by Neda
 ## Resources
 
 - [Slack](http://nodebcjan6.slack.com)
