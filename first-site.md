@@ -113,7 +113,7 @@ To be able to publish it we need a free hosting and a domain.
 ![First Steps Made Easy](resources/first-site/awardspace_subdomain.png)
 10. Input a subdomain name and click the create button (this is the URL that we'll access online)
 12. Now that we have a hosting and domain configured we need to upload our site to publish it.
-13. Download & install [Filezilla](https://filezilla-project.org/download.php?show_all=1   )
+13. Download & install [Filezilla](https://filezilla-project.org/download.php?show_all=1)
 or any other [FTP](https://simple.wikipedia.org/wiki/FTP) client
 14. Head to the AwardSpace Dashboard and click `FTP manager` section
 ![FTP manager](resources/first-site/ftp-configure.png)

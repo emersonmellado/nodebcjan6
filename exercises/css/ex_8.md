@@ -57,5 +57,5 @@
 * Select all elements with the class radius and add the following CSS properties:
   * Border width must be 2px
   * Border color must be orange
-  * Border raduis must be 20px for all corners
+  * Border radius must be 20px for all corners
   
