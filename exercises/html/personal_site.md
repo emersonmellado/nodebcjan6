@@ -1,7 +1,7 @@
 # Personal Site
 
 * Create my-site folder
-
+* this is sample test 
 * Create a personal site about you, something that you're passionate about or it can be your site as web developer
 * The site must include everything that we saw so far
 * It will have at least 6 linked html documents
