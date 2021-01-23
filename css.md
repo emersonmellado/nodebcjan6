@@ -8,7 +8,7 @@
 **CSS code example:**
 ```CSS
 span {
-  color: white;
+  color: yellow;
 }
 ```
 
