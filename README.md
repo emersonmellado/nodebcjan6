@@ -1,4 +1,4 @@
-# Node.js BC (Pandemically Remote)
+# Node.js BC (Pandemically Remote) because of Covid
 
 ## Resources
 
