@@ -7,7 +7,7 @@
 
 ## Content
 
-The best course content will be distributed on a weekly basis, feel free to read it all and even **pull request** (more on that on the git lesson) suggestions.
+The best course content will be distributed on a weekly basis, feel free to read it all and even more **pull request** (more on that on the git lesson) suggestions.
 
 ## Crawl
 
