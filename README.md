@@ -13,7 +13,7 @@ The best course content will be distributed on a weekly basis and feel free to r
 
 ### Week 1
 
-- Introduction/Entrance
+- Introduction/Entrance - formal
 - Crawl, Walk and Run goals stablished
 
 * [What's Internet and how does it work?](internet.md)
