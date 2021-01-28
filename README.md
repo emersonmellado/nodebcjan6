@@ -28,7 +28,7 @@ The course content will be distributed on a weekly basis, feel free to read it a
 ### Week 3
 
 - Wrap up HTML and CSS exercises and basic versioning
-- JavaScript
+- [JavaScript](javascript.md)
 
 ### Week 4 & 5
 
