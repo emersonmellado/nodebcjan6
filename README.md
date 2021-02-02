@@ -32,7 +32,7 @@ The course content will be distributed on a weekly basis, feel free to read it a
 
 ### Week 4 & 5
 
-- JavaScript
+- [JavaScript] - [Video 2](https://drive.google.com/file/d/1g8gUezPdLZ4FOdKM3p3TmX_MvZ5UUPgv/view?usp=sharing)
 
 ## Walk
 
