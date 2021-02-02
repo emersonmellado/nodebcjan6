@@ -812,7 +812,7 @@ console.log(result); // 0
 ```
 
 * We can use this operator to find out if a number is even or odd
-[Freecodecamp - Finding a remainder in JavaScript](https://www.freecodecamp.org/challenges/finding-a-remainder-in-javascript)
+[Freecodecamp - Finding a remainder in JavaScript](https://forum.freecodecamp.org/t/finding-a-remainder-in-javascript/152168)
 
 #### Practice
 [Exercise 27](./exercises/js/ex_27.md)
