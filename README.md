@@ -1,5 +1,7 @@
 # Node.js BC (Pandemically Remote)
 
+This is a modification example for a pull request on your README file!!!
+
 ## Resources
 
 - [Slack](http://nodebcjan6.slack.com)
