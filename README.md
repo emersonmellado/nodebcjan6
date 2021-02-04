@@ -28,11 +28,13 @@ The course content will be distributed on a weekly basis, feel free to read it a
 ### Week 3
 
 - Wrap up HTML and CSS exercises and basic versioning
-- [JavaScript](javascript.md) - [Video 1](https://drive.google.com/file/d/1CnXqYssk1pyIdTVDGj0b4foDIieXA_s2/view?usp=sharing)
+- [JavaScript](javascript.md) - [Video 1 - Intro and setup](https://drive.google.com/file/d/1CnXqYssk1pyIdTVDGj0b4foDIieXA_s2/view?usp=sharing)
 
 ### Week 4 & 5
 
-- [JavaScript] - [Video 2](https://drive.google.com/file/d/1g8gUezPdLZ4FOdKM3p3TmX_MvZ5UUPgv/view?usp=sharing)
+- [JavaScript] 
+  - [Video 2 - Variables and Console log](https://drive.google.com/file/d/1g8gUezPdLZ4FOdKM3p3TmX_MvZ5UUPgv/view?usp=sharing) 
+  - [Video 3 - Operators](https://drive.google.com/file/d/1UvA1XKzYaKQ0H_qdseDZHbWwe1xXjT5L/view?usp=sharing)
 
 ## Walk
 
