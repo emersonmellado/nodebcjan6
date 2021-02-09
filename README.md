@@ -32,10 +32,11 @@ The course content will be distributed on a weekly basis, feel free to read it a
 
 ### Week 4 & 5
 
-- [JavaScript] 
+- [JavaScript](javascript.md)
   - [Video 2 - Variables and Console log](https://drive.google.com/file/d/1g8gUezPdLZ4FOdKM3p3TmX_MvZ5UUPgv/view?usp=sharing) 
   - [Video 3 - Operators](https://drive.google.com/file/d/1UvA1XKzYaKQ0H_qdseDZHbWwe1xXjT5L/view?usp=sharing)
   - [Video 4 - Extension methods](https://drive.google.com/file/d/16tAFgYsbGjTmwI8FCXQmC3dYnPQEcjla/view?usp=sharing)
+  - [Video 5 - Statements and flow controls](https://drive.google.com/file/d/1OSrSK1qtavpl8tfrRpfQJ0kNriEDqrQ9/view?usp=sharing)
 
 ## Walk
 
