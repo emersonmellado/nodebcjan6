@@ -37,6 +37,7 @@ The course content will be distributed on a weekly basis, feel free to read it a
   - [Video 3 - Operators](https://drive.google.com/file/d/1UvA1XKzYaKQ0H_qdseDZHbWwe1xXjT5L/view?usp=sharing)
   - [Video 4 - Extension methods](https://drive.google.com/file/d/16tAFgYsbGjTmwI8FCXQmC3dYnPQEcjla/view?usp=sharing)
   - [Video 5 - Statements and flow controls](https://drive.google.com/file/d/1OSrSK1qtavpl8tfrRpfQJ0kNriEDqrQ9/view?usp=sharing)
+  - [Video 6 - Fun-fun-functions](https://drive.google.com/file/d/1kfMwi1chxGpcuKAeZHB5GeYX5yqyvKGS/view?usp=sharing)
 
 ## Walk
 
