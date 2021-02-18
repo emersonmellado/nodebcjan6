@@ -38,12 +38,14 @@ The course content will be distributed on a weekly basis, feel free to read it a
   - [Video 4 - Extension methods](https://drive.google.com/file/d/16tAFgYsbGjTmwI8FCXQmC3dYnPQEcjla/view?usp=sharing)
   - [Video 5 - Statements and flow controls](https://drive.google.com/file/d/1OSrSK1qtavpl8tfrRpfQJ0kNriEDqrQ9/view?usp=sharing)
   - [Video 6 - Fun-fun-functions](https://drive.google.com/file/d/1kfMwi1chxGpcuKAeZHB5GeYX5yqyvKGS/view?usp=sharing)
+  - [Video 7 - Array manipulation](https://drive.google.com/file/d/173ZbbLM4ev2HL0X8tEgoDTJvj2oE-3X9/view?usp=sharing)
+  - [Video 8 - Callback-functions](https://drive.google.com/file/d/1tf2gqUzQmGJJ6Dchoh4f9XIJFX7Gfk29/view?usp=sharing)
 
 ## Walk
 
 ### Week 6
 
-- Browser API
+- [Browser API](browserapi.md)
 
 ### Week 7
 
