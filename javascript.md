@@ -2065,7 +2065,7 @@ let number = 0;
 do {
   console.log('number: ', number);
   number++;
-} while (number < 10000) {
+} while (number < 10000);
 ```
 
 * In this case we show the message
@@ -2080,7 +2080,7 @@ let number = 1000;
 do {
   console.log('number: ', number);
   number++;
-} while (number < 10) {
+} while (number < 10);
 ```
 
 * In this example we'll only show number 1000 once and then it won't iterate
