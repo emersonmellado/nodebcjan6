@@ -3,7 +3,7 @@
 ## Resources
 
 - [Slack](http://nodebcjan6.slack.com)
-- Zoom meeting _(Get the link on slack in the #general channel)_
+- [Zoom meeting _(Get the link on slack in the #general channel)_](https://us02web.zoom.us/j/85662453408?pwd=YXhJOTlFOFk2ZFpFMEJVbmNnb1hPZz09#success)
 
 ## Content
 
