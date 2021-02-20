@@ -2747,7 +2747,7 @@ console.log(animalCount); // 4
 animalCount = animals.unshift('elephant', 'dolphin');
 
 console.log(animals);
-// [ 'elephant', 'dolphin', 'dog', 'duck', 'cow', 'cat' ];
+// [ 'elephant', 'dolphin', 'cat', 'dog', 'duck', 'cow'];
 
 console.log(animalCount); // 6
 ```
