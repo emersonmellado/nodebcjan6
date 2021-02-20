@@ -1,5 +1,5 @@
 # Node.js BC (Pandemically Remote)
-
+be the change you want to see in the world!
 ## Resources
 
 - [Slack](http://nodebcjan6.slack.com)
@@ -67,4 +67,5 @@ The course content will be distributed on a weekly basis, feel free to read it a
 
 ### Week 11
 
-- Final project
+- Final project:q
+
