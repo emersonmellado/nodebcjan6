@@ -40,6 +40,7 @@ The course content will be distributed on a weekly basis, feel free to read it a
   - [Video 6 - Fun-fun-functions](https://drive.google.com/file/d/1kfMwi1chxGpcuKAeZHB5GeYX5yqyvKGS/view?usp=sharing)
   - [Video 7 - Array manipulation](https://drive.google.com/file/d/173ZbbLM4ev2HL0X8tEgoDTJvj2oE-3X9/view?usp=sharing)
   - [Video 8 - Callback-functions](https://drive.google.com/file/d/1tf2gqUzQmGJJ6Dchoh4f9XIJFX7Gfk29/view?usp=sharing)
+  - [Video 9 - Recursion](https://drive.google.com/file/d/1fmAl3U-qSWwkjtmFlbzxMeHl17vOmU6m/view?usp=sharing)
 
 ## Walk
 
