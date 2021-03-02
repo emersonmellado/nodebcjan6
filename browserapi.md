@@ -1174,7 +1174,7 @@ paragraph.setAttribute('id', 'my-paragraph');
 paragraph.style.fontWeight = 'bold';
 paragraph.style.color = 'green';
 
-div.border = '1px solid gray';
+div.style.border = '1px solid gray';
 
 div.appendChild(paragraph);
 
