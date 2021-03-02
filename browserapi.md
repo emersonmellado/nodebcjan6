@@ -1442,7 +1442,7 @@ body.addEventListener('click', function(event) {
 #### List of Events you can use:
 * The browser API allow us to use many events handlers to create interactive UI's:
   * onchange
-  * onclick / ondblclick / onmousedown / onmousedown
+  * onclick / ondblclick / onmousedown / onmouseup
   * onmouseover / onmouseout
   * onkeydown / onkeypress / onkeyup
   * onload
@@ -1465,7 +1465,7 @@ body.addEventListener('click', function(event) {
 * HTML Forms helps us retrieve user data
 * Using JavaScript we can handle inputs and forms events and values
 * Also, we can check the values that the user inputs
-* We need to select the form to be able to interact with
+* We need to select the form to be able to interact with it
 * **Disclaimer: From our HTML material**:
 	* The form element has 3 important attributes:
 	  * action: the URI of a program that processes the form information
