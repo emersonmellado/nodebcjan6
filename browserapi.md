@@ -1520,8 +1520,8 @@ const firstElement = form.elements[0];
 const form = document.querySelector('form');
 
 console.log(form.action); // save_user.html
-console.log(form.encoding); // get
-console.log(form.method); // application/x-www-form-urlencoded
+console.log(form.encoding); // application/x-www-form-urlencoded
+console.log(form.method); // get
 console.log(form.name); // login
 ```
 
