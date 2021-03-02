@@ -50,6 +50,7 @@ The course content will be distributed on a weekly basis, feel free to read it a
 - [Browser API](browserapi.md)
   - [Video 1 - Intro and Window API](https://drive.google.com/file/d/1FwdMcog1mEBpX0LfLKgwdRKBRC-Dr7l5/view?usp=sharing)
   - [Video 2 - Document API](https://drive.google.com/file/d/1Bj3qxZ_i8mowSN9P2l-IzDjt7o9jyJIa/view?usp=sharing)
+  - [Video 3 - CRUD](https://drive.google.com/file/d/1Uzp48ocm1lAYD3RlHrs7eN7vU0z_dNGK/view?usp=sharing)
 
 ### Week 7
 
