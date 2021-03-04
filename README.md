@@ -33,7 +33,7 @@ The course content will be distributed on a weekly basis, feel free to read it a
 ### Week 4 & 5
 
 - [JavaScript](javascript.md)
-  - [Video 2 - Variables and Console log](https://drive.google.com/file/d/1g8gUezPdLZ4FOdKM3p3TmX_MvZ5UUPgv/view?usp=sharing) 
+  - [Video 2 - Variables and Console log](https://drive.google.com/file/d/1g8gUezPdLZ4FOdKM3p3TmX_MvZ5UUPgv/view?usp=sharing)
   - [Video 3 - Operators](https://drive.google.com/file/d/1UvA1XKzYaKQ0H_qdseDZHbWwe1xXjT5L/view?usp=sharing)
   - [Video 4 - Extension methods](https://drive.google.com/file/d/16tAFgYsbGjTmwI8FCXQmC3dYnPQEcjla/view?usp=sharing)
   - [Video 5 - Statements and flow controls](https://drive.google.com/file/d/1OSrSK1qtavpl8tfrRpfQJ0kNriEDqrQ9/view?usp=sharing)
@@ -45,31 +45,32 @@ The course content will be distributed on a weekly basis, feel free to read it a
 
 ## Walk
 
-### Week 6
+### Week 6/7
 
 - [Browser API](browserapi.md)
   - [Video 1 - Intro and Window API](https://drive.google.com/file/d/1FwdMcog1mEBpX0LfLKgwdRKBRC-Dr7l5/view?usp=sharing)
   - [Video 2 - Document API](https://drive.google.com/file/d/1Bj3qxZ_i8mowSN9P2l-IzDjt7o9jyJIa/view?usp=sharing)
   - [Video 3 - CRUD](https://drive.google.com/file/d/1Uzp48ocm1lAYD3RlHrs7eN7vU0z_dNGK/view?usp=sharing)
-
-### Week 7
-
-- Node.js
+  - [Video 4 - Forms](https://drive.google.com/file/d/1pwGeIwKTKN7mecrvwOgRKJUZeFla1uaI/view?usp=sharing)
 
 ### Week 8
 
-- Building a Node.js site with Express
+- [Node.js](nodejs.md)
 
 ### Week 9
 
-- MongoDB & Mongoose
+- Building a Node.js site with Express
 
 ## Run
 
 ### Week 10
 
-- Deploy
+- MongoDB & Mongoose
 
 ### Week 11
+
+- Deploy
+
+### Week 12
 
 - Final project
