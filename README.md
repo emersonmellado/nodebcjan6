@@ -57,6 +57,8 @@ The course content will be distributed on a weekly basis, feel free to read it a
 
 - [Node.js](nodejs.md)
   - [Video 1 - Intro and Modules](https://drive.google.com/file/d/16ue4RN5rbvBLAuxF2fqH7bsA_XTQX47p/view?usp=sharing) 
+  - [Video 2.1 - Hiring process - Maria from PayByPhone](https://drive.google.com/file/d/1LZop-05ybbH6R9ULMhPEwCyksGYs2pIJ/view?usp=sharing)
+  - [Video 2.2 - Arrow functions](https://drive.google.com/file/d/1qoz1dygdm4fn2sDpHcTiGpDGN0KkYj-p/view?usp=sharing)
 
 ### Week 9
 
