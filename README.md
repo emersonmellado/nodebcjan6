@@ -62,6 +62,7 @@ The course content will be distributed on a weekly basis, feel free to read it a
   - [Video 3 - Webserver - simple full stack project](https://drive.google.com/file/d/1mgFtmbEFSvpc-pBA012kp0Xgt2e81mXI/view?usp=sharing)
   - [Video 4 - Get routes + Insomina](https://drive.google.com/file/d/1ja2TpZJ97jO1XKLUYkOT-eus0NtN1hVS/view?usp=sharing)
   - [Video 5 - Http methods + script example](https://drive.google.com/file/d/1bwF9sgzW5_5v0lo0LLrym7xcCRLnzoE_/view?usp=sharing)
+  - [Video 6 - Express router + basic error handling](https://drive.google.com/file/d/1Z-YHpWs30UHzL2IP-mRYIMg4vpcZpkjG/view?usp=sharing)
 
 ### Week 9
 
