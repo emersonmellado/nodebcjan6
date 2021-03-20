@@ -63,6 +63,7 @@ The course content will be distributed on a weekly basis, feel free to read it a
   - [Video 4 - Get routes + Insomina](https://drive.google.com/file/d/1ja2TpZJ97jO1XKLUYkOT-eus0NtN1hVS/view?usp=sharing)
   - [Video 5 - Http methods + script example](https://drive.google.com/file/d/1bwF9sgzW5_5v0lo0LLrym7xcCRLnzoE_/view?usp=sharing)
   - [Video 6 - Express router + basic error handling](https://drive.google.com/file/d/1Z-YHpWs30UHzL2IP-mRYIMg4vpcZpkjG/view?usp=sharing)
+  - [Video 9 - Express middlewares + templating](https://drive.google.com/file/d/1_bqhaemcAjv-1o8qWL6iJVZtlUfhp0OC/view?usp=sharing)
 
 ### Week 9
 
