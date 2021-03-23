@@ -53,7 +53,7 @@ The course content will be distributed on a weekly basis, feel free to read it a
   - [Video 3 - CRUD](https://drive.google.com/file/d/1Uzp48ocm1lAYD3RlHrs7eN7vU0z_dNGK/view?usp=sharing)
   - [Video 4 - Forms](https://drive.google.com/file/d/1pwGeIwKTKN7mecrvwOgRKJUZeFla1uaI/view?usp=sharing)
 
-### Week 8
+### Week 8/9
 
 - [Node.js](nodejs.md)
   - [Video 1 - Intro and Modules](https://drive.google.com/file/d/16ue4RN5rbvBLAuxF2fqH7bsA_XTQX47p/view?usp=sharing) 
@@ -62,22 +62,19 @@ The course content will be distributed on a weekly basis, feel free to read it a
   - [Video 3 - Webserver - simple full stack project](https://drive.google.com/file/d/1mgFtmbEFSvpc-pBA012kp0Xgt2e81mXI/view?usp=sharing)
   - [Video 4 - Get routes + Insomina](https://drive.google.com/file/d/1ja2TpZJ97jO1XKLUYkOT-eus0NtN1hVS/view?usp=sharing)
   - [Video 5 - Http methods + script example](https://drive.google.com/file/d/1bwF9sgzW5_5v0lo0LLrym7xcCRLnzoE_/view?usp=sharing)
-  - [Video 6 - Express router + basic error handling](https://drive.google.com/file/d/1Z-YHpWs30UHzL2IP-mRYIMg4vpcZpkjG/view?usp=sharing)
-  - [Video 9 - Express middlewares + templating](https://drive.google.com/file/d/1_bqhaemcAjv-1o8qWL6iJVZtlUfhp0OC/view?usp=sharing)
-
-### Week 9
-
-- Building a Node.js site with Express
 
 ## Run
 
 ### Week 10
 
-- MongoDB & Mongoose
+- [Node.js](nodejs.md)
+  - [Video 6 - Express router + basic error handling](https://drive.google.com/file/d/1Z-YHpWs30UHzL2IP-mRYIMg4vpcZpkjG/view?usp=sharing)
+  - [Video 9 - Express middlewares + templating](https://drive.google.com/file/d/1_bqhaemcAjv-1o8qWL6iJVZtlUfhp0OC/view?usp=sharing)
+  - [Video 10 - CRUD](https://drive.google.com/file/d/1VJjMoR8gObeAXZuW3jFACQsjexim2aSi/view?usp=sharing)
 
 ### Week 11
 
-- Deploy
+- Building a Node.js site with Express with MongoDB & Mongoose
 
 ### Week 12
 
