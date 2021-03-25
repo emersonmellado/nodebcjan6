@@ -371,7 +371,7 @@ app.get('/', (req, res) => {
   res.render('index', { superheroes: superheroes });
 });
 
-app.get('/superheros/', (req, res) => {
+app.get('/superheroes/', (req, res) => {
   res.render('superhero', { superheroes: superheroes });
 });
 
