@@ -74,7 +74,8 @@ The course content will be distributed on a weekly basis, feel free to read it a
 
 ### Week 11
 
-- Building a Node.js site with Express with MongoDB & Mongoose
+- [Building a Node.js site with Express](buildingsite.md)
+- [MongoDB & Mongoose](mongodb.md)
 
 ### Week 12
 
