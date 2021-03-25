@@ -167,7 +167,7 @@ script(src="/js/scripts.js")
 * Also is nice that we removed all padding and margins from the elements
 * As we'll have to create more than one page we need to create a layout
 * Create the `layout.pug` file inside the view folder
-* Copy and paste all the content from index.pug template into the layout.pug one
+* Copy and paste all the content from index.pug template into the layout.pug one and add the blocks styles, scripts and content (use the reference below)
 * Also we need to add a styles, scripts & content block so we can change the content from the different templates
 * layout.pug
 ```
