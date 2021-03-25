@@ -23,10 +23,27 @@ npm install express pug nodemon
 ```
 npm init -y
 ```
-* Configure NPM start script
+* Configure NPM start script in your package.json, it should look like this (the dependencies versions can be different:
 
 ```json
-"start": "nodemon"
+{
+  "name": "node-site-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
 ```
 * Nodemon will look for an index.js file to start the server and watch for changes
 * Create an `index.js` file and add a express server
