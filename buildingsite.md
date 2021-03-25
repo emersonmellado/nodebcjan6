@@ -19,6 +19,10 @@ cd node-site-example
 npm install express pug nodemon
 ```
 * Nodemon is a Node.js module that will watch our files to see if we save them and reload the server for us
+
+```
+npm init -y
+```
 * Configure NPM start script
 
 ```json
