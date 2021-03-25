@@ -556,7 +556,7 @@ app.post('/superheros', urlencodedParser, (req, res) => {
 * Use newId as id
 * And the name we get it from the request body
 * As we don't have an image for now let's add some value
-* Also you can download this [lukecage.jpg]() and put it inside the img folder
+* Also you can download this [lukecage.jpg](https://github.com/emersonmellado/nodebc_exercises/blob/master/node-site-example/public/img/lukecage.jpg) and put it inside the img folder
 * Now that we have the superhero we can add it to the collection 
 ```js
 superheroes.push(newSuperHero);
