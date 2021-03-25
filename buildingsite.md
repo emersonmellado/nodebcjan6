@@ -184,7 +184,7 @@ block content
     |- img
         |- blackwidow.jpg
         |- captainmarvel.jpg
-        |- captanamerica.jpg
+        |- captainamerica.jpg
         |- daredevil.jpg
         |- hulk.jpg
         |- ironman.jpg
@@ -208,7 +208,7 @@ app.get('/', (req, res) => {
     { name: 'IRON MAN', image: 'ironman.jpg' },
     { name: 'DAREDEVIL', image: 'daredevil.jpg' },
     { name: 'BLACK WIDOW', image: 'blackwidow.jpg' },
-    { name: 'CAPTAIN AMERICA', image: 'captanamerica.jpg' },
+    { name: 'CAPTAIN AMERICA', image: 'captainamerica.jpg' },
     { name: 'WOLVERINE', image: 'wolverine.jpg' },
   ];
 
@@ -280,7 +280,7 @@ app.get('/superheros/', (req, res) => {
     { name: 'IRON MAN', image: 'ironman.jpg' },
     { name: 'DAREDEVIL', image: 'daredevil.jpg' },
     { name: 'BLACK WIDOW', image: 'blackwidow.jpg' },
-    { name: 'CAPTAIN AMERICA', image: 'captanamerica.jpg' },
+    { name: 'CAPTAIN AMERICA', image: 'captainamerica.jpg' },
     { name: 'WOLVERINE', image: 'wolverine.jpg' },
   ];
 
@@ -317,7 +317,7 @@ const superheroes = [
   { id: 5, name: 'IRON MAN', image: 'ironman.jpg' },
   { id: 6, name: 'DAREDEVIL', image: 'daredevil.jpg' },
   { id: 7, name: 'BLACK WIDOW', image: 'blackwidow.jpg' },
-  { id: 8, name: 'CAPTAIN AMERICA', image: 'captanamerica.jpg' },
+  { id: 8, name: 'CAPTAIN AMERICA', image: 'captainamerica.jpg' },
   { id: 9, name: 'WOLVERINE', image: 'wolverine.jpg' },
 ];
 ```
@@ -342,7 +342,7 @@ const superheroes = [
   { id: 5, name: 'IRON MAN', image: 'ironman.jpg' },
   { id: 6, name: 'DAREDEVIL', image: 'daredevil.jpg' },
   { id: 7, name: 'BLACK WIDOW', image: 'blackwidow.jpg' },
-  { id: 8, name: 'CAPTAIN AMERICA', image: 'captanamerica.jpg' },
+  { id: 8, name: 'CAPTAIN AMERICA', image: 'captainamerica.jpg' },
   { id: 9, name: 'WOLVERINE', image: 'wolverine.jpg' },
 ];
 
@@ -567,7 +567,7 @@ const superheroes = [
   { id: 5, name: 'IRON MAN', image: 'ironman.jpg' },
   { id: 6, name: 'DAREDEVIL', image: 'daredevil.jpg' },
   { id: 7, name: 'BLACK WIDOW', image: 'blackwidow.jpg' },
-  { id: 8, name: 'CAPTAIN AMERICA', image: 'captanamerica.jpg' },
+  { id: 8, name: 'CAPTAIN AMERICA', image: 'captainamerica.jpg' },
   { id: 9, name: 'WOLVERINE', image: 'wolverine.jpg' },
 ];
 
