@@ -199,15 +199,15 @@ block content
 /node-site-example
 |- public
     |- img
-        |- blackwidow.jpg
-        |- captainmarvel.jpg
-        |- captainamerica.jpg
-        |- daredevil.jpg
-        |- hulk.jpg
-        |- ironman.jpg
-        |- spiderman.jpg
-        |- thor.jpg
-        |- wolverine.jpg
+        |- blackwidow.jpeg
+        |- captainmarvel.jpeg
+        |- captainamerica.jpeg
+        |- daredevil.jpeg
+        |- hulk.jpeg
+        |- ironman.jpeg
+        |- spiderman.jpeg
+        |- thor.jpeg
+        |- wolverine.jpeg
 ```
 * Now we have the superheroes images in our static assets folder
 * We want to create a homepage with some superheores picture and name
