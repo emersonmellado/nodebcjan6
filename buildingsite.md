@@ -194,7 +194,7 @@ block content
 ```
 * Check that the site it still works as expected
 * If we don't have any errors we must see the same content but now using the layout
-* Inside the public/img create a `superheroes` folder and download the following images from [here](https://github.com/emersonmellado/nodebc_exercises/tree/master/node-site-example/public/img)
+* Inside the public/img download the following images from [here](https://github.com/emersonmellado/nodebc_exercises/tree/master/node-site-example/public/img)
 ```
 /node-site-example
 |- public
