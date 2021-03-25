@@ -250,6 +250,10 @@ block content
   margin-right: 10px;
   margin-bottom: 40px;
 }  
+
+.superheroe-container img {
+  max-height: 300px;
+} 
 ```
 * It would be nice to be able to click the image or the superhero name and see a detail page
 * To create this feature we need to do a couple of changes
