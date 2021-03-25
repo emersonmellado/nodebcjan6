@@ -224,7 +224,7 @@ app.get('/', (req, res) => {
 ```index.pug
 each superheroe in superheroes
   div.superheroe-container
-    img(src='/img/superheroes/' + superheroe.image)
+    img(src='/img/' + superheroe.image)
     h3= superheroe.name
 ```
 * Update index.pug to match this code:
@@ -236,7 +236,7 @@ block content
   p This site shows superheroes information
   each superheroe in superheroes
     div.superheroe-container
-      img(src='/img/superheroes/' + superheroe.image)
+      img(src='/img/' + superheroe.image)
       h3= superheroe.name
 ```
 * Now our site has all the superheroes pictures and name but it would be nice to change the design a little
@@ -263,7 +263,7 @@ block content
   each superheroe in superheroes
     div.superheroe-container
       a(href="/superheroes/")
-        img(src='/img/superheroes/' + superheroe.image)
+        img(src='/img/' + superheroe.image)
         h3= superheroe.name
 ```
 * We added a link element that relates this page with `/superheroes/`
@@ -298,7 +298,7 @@ app.get('/superheros/', (req, res) => {
 extends ./layout.pug
 
 block content
-  img(src='/img/superheroes/' + superheroe.image)
+  img(src='/img/' + superheroe.image)
   h3= superheroe.name
 ```
 * Great we are using the layout template that we created but we don't have the superheroe data
@@ -447,7 +447,7 @@ block content
   each superheroe in superheroes
     div.superheroe-container
       a(href="/superheros/" + superheroe.id)
-        img(src='/img/superheroes/' + superheroe.image)
+        img(src='/img/' + superheroe.image)
         h3= superheroe.name
 ```
 * And now add some styles so the form looks better
