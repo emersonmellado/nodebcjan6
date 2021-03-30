@@ -116,14 +116,14 @@ mongo
 * Once MongoDB shell connects we'll see a description message:
 
 ```bash
-MongoDB shell version v3.4.2
+MongoDB shell version v4.4.4
 connecting to: mongodb://127.0.0.1:27017
-MongoDB server version: 3.4.2
+MongoDB server version: 4.4.4
 >
 ```
 
 * MongoDB shell let us know that it's connected to `mongodb://127.0.0.1:27017`
-* Also shows the shell and server version (`v3.4.2`)
+* Also shows the shell and server version (`v4.4.4`)
 * To use MongoDB we need the server and shell running
 * MongoDB shell it's a JavaScript REPL like Node.js one
 * This means that we can write/execute JavaScript code on it
@@ -304,9 +304,9 @@ comics
 * Full example:
 ```bash
 mongo comics
-MongoDB shell version v3.4.2
+MongoDB shell version v4.4.4
 connecting to: mongodb://127.0.0.1:27017/comics
-MongoDB server version: 3.4.2
+MongoDB server version: 4.4.4
 Server has startup warnings:
 2018-05-23T07:07:16.271-0500 I CONTROL  [initandlisten]
 2018-05-23T07:07:16.271-0500 I CONTROL  [initandlisten] ** WARNING: Access control is not enabled for the database.
