@@ -78,6 +78,7 @@ The course content will be distributed on a weekly basis, feel free to read it a
   - [Video 1 - Let's build it](https://drive.google.com/file/d/1Tj3yIWDGBBTtORm0j7Ag6RMqRltB11Cg/view?usp=sharing)
 - [MongoDB & Mongoose](mongodb.md)
   - [Video 1 - Basic concepts SQL vs NoSQL](https://drive.google.com/file/d/1URsLvyAkMBc_7uQm7mj1eEIVx1Tc57Pl/view?usp=sharing)
+  - [Video 2 - Run on terminal and connect to Node](https://drive.google.com/file/d/1TBJ_W4DEW_e8aWKLJKJTYJzW4uuyvjAq/view?usp=sharing)
 
 ### Week 12
 
