@@ -47,8 +47,8 @@
 * Execute the downloaded installer and follow all the wizard steps
 * Uncheck (do not do) the option to install MongoDB as a service
 * Install the full version
-* In windows MongoDB will be installed on the following path `C:\Program Files\MongoDB\Server\3.4\.`
-* In this example 3.4 is the MongoDB installed version
+* In windows MongoDB will be installed on the following path `C:\Program Files\MongoDB\Server\4.4\.`
+* In this example 4.4 is the MongoDB installed version
 * This will change for newer versions
 * MongoDB doesn't have any other dependencies so it can be executed from the downloaded/installed folder
 
@@ -58,13 +58,13 @@
 * Create the default folder before running MongoDB
 
 ```bash
-C:\> md \data\db
+C:\> mddir \data\db
 ```
 
 * When running the server we can use `--dbpath` parameter to specify the dbs path
 
 ```bash
-"C:\Program Files\MongoDB\Server\3.4\bin\mongod.exe" --dbpath d:\test\mongodb\data
+"C:\Program Files\MongoDB\Server\4.4\bin\mongod.exe" --dbpath c:\data\db
 ```
 
 * To be able to access MongoDB from anywhere in the terminal we need to configure our environments variables
