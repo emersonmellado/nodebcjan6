@@ -82,4 +82,6 @@ The course content will be distributed on a weekly basis, feel free to read it a
 
 ### Week 12
 
+- [MongoDB & Mongoose](mongodb.md)
+  - [Video 3 - Mongoose](https://drive.google.com/file/d/16OFaLkDvZSytMSmKr4CVSJsQiC2-Ze-s/view?usp=sharing)
 - Final project
