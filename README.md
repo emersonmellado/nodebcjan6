@@ -85,3 +85,4 @@ The course content will be distributed on a weekly basis, feel free to read it a
 - [MongoDB & Mongoose](mongodb.md)
   - [Video 3 - Mongoose](https://drive.google.com/file/d/16OFaLkDvZSytMSmKr4CVSJsQiC2-Ze-s/view?usp=sharing)
 - Final project
+  - [Video - Creating a full project from scratch](https://drive.google.com/file/d/1sn4gCbJL5UG5XHeWItGpBEOLM-ByLQ-q/view?usp=sharing)   
