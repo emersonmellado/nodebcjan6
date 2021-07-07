@@ -3075,12 +3075,12 @@ console.log(pets) // ['Amelia', 'Ciro', 'Ulises', 'Carlos'] the pets array hastn
 ```js
 const greades = [1, 2, 3, 4, 10, 5];
 
-const goodGreades = grades.filter(function(grade) {
+const goodGreades = greades.filter(function(grade) {
   return grade === 10;
 });
 
 console.log(goodGreades); // [10] array with only one item
-console.log(greades); // [1, 2, 3, 4, 10, 5] origina array 
+console.log(greades); // [1, 2, 3, 4, 10, 5] original array 
 ```
 
 #### Practice
